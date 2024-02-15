@@ -61,7 +61,7 @@ const IndexPage = () => (
       title="React for Designers" 
       text="Learn to implement your design and apply basic styling using powerful CSS techniques. Additionally, you’ll be able to use custom fonts from Google fonts and set up the structure for your images and CSS." 
       />
-     <SectionCaption>12 sections - 6 hours</SectionCaption>
+     <SectionCaption>12 sections - 8 hours</SectionCaption>
      <SectionCellGroup>
       {staticdata.cells.map(cell => (
         <Cell 
